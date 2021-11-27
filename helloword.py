@@ -1,2 +1,3 @@
 # este mensaje imprime código
-print("Hello world") 
+print("Hello")
+print("segundo print")
